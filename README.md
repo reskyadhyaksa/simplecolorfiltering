@@ -6,4 +6,4 @@ white : \
 [230, 230, 255]\
 [255, 255, 255]
 
-and if you want to detect color you can use ***"pyautogui.displayMousePosition"*** for detecting that things,
+and if you want to detect color you can use library from PYAUTOGUI, ***"pyautogui.displayMousePosition"*** for detecting that things,
